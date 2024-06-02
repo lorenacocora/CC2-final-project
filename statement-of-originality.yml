@@ -1,7 +1,7 @@
 # adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
 # put *your* name here
-name:
+name: Lorena Cocora
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
@@ -26,6 +26,6 @@ code:
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external assets)
 assets:
-  - comment:
-    url:
-    licence:
+  - comment: Classic music for working out
+    url: https://www.youtube.com/watch?v=aISfc41pOIY
+    licence: halidonmusic
